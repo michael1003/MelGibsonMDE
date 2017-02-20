@@ -12,9 +12,10 @@ if (melGibson < 61) {
 }
 
 var isMelRacist = false; 
-if (isMelRacist = false) {
+
+if (isMelRacist === false) {
 	console.log('Good for him!');
-} else if (isMelRacist = true) {
+} else if (isMelRacist === true) {
 	console.log('He\'s a racist?! Uh oh, no movies for Mel!');
 } else {
 	console.log('true or false');
